@@ -70,3 +70,11 @@ http://127.0.0.1:5000
 ### Prediction Result
 
 ![Prediction Result](assets/prediction_result.png)
+
+## Model Training Notebook
+
+The deep learning model was trained using Google Colab.
+
+You can view the full training notebook here:
+
+notebooks/malaria.ipynb
